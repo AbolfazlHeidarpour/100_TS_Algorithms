@@ -3,6 +3,7 @@
 # 100AlgorithmsChallenge
 
 ## HINT
+<p>Currently working on challenges</p>
 <p>This is a fork from <a href='https://github.com/Dylan-Israel/100AlgorithmsChallenge'>the main repository</a></p>
 <p>I added my own solutions</p>
 
