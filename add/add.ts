@@ -1,12 +1,16 @@
-export function add(param1: number, param2: number): number {
-
+function add(a: number, b: number) {
+  return a + b;
 }
 
-export function add2(...param1: number[]): number {
+function multiAdd(...values: number[]): number {
+  let sum = 0;
 
+  values.forEach(v => {
+    sum += v;   
+  });
+
+  return sum;
 }
-// console.log(add(1, 2));
-// console.log(add(3, 2));
 
-// console.log(add2(1,2,3,4,5));
-// console.log(add2(2,3));
+console.log(add(12, -3));
+console.log(multiAdd(1, 2, 12, -3, 9))
