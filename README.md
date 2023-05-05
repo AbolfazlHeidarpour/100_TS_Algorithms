@@ -4,7 +4,7 @@
 
 ## HINT
 <p>This is a fork from <a href='https://github.com/Dylan-Israel/100AlgorithmsChallenge'>the main repository</a></p>
-<p>I added my own solutions</p>`
+<p>I added my own solutions</p>
 
 <a href='https://www.udemy.com/course/100-algorithms-challenge'>Check Out The 100 Algorithm's Challenge Course</a>
 
